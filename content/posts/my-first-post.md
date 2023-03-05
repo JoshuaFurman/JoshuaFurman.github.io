@@ -3,7 +3,7 @@ title: "My First Post"
 date: 2022-09-21T13:24:06-06:00
 draft: false
 ---
-![Image alt](/test-post-1.png) )
+![Image alt](/test-post-1.png)
 
 ### Its about time I made a blog 
 
