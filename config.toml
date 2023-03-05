@@ -1,11 +1,12 @@
 baseURL = 'https://joshuafurman.github.io/'
 languageCode = 'en-us'
-title = 'Testing Publishing'
+title = 'Furmware'
 theme = 'github.com/nodejh/hugo-theme-mini'
 
 [params]
 author = 'Joshua Furman'
-bio = 'Software Engineer'
+bio = 'Software Alchemist'
 
 [social]
 github = 'https://github.com/JoshuaFurman'
+twitter = 'https://twitter.com/furman_josh'
